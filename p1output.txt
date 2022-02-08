@@ -1,1 +1,6 @@
-
+gcc -g p1original.c;./a.out 
+enter the base
+12
+enter the height
+15
+the area of triangle of base 12.000000 and height 15.000000 is 90.000000
